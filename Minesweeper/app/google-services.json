@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765924231587",
+    "project_id": "androidminesweeper-7d1b3",
+    "storage_bucket": "androidminesweeper-7d1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765924231587:android:18b32f57cc9bb847147216",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.android.minesweeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfjD2J7XR1okFgYYZhK6UkoG_xlwK0g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
